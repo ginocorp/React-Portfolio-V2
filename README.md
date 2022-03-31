@@ -2,32 +2,23 @@
 
 ## Description
 
-* This React Portfolio.
+* Everyone needs a Portfolio of all their success, projects, and skills. This is mine! At least for now. 
 
 ## Table of Content
-
-* [Installation](#installation) 
+ 
 * [Usage](#usage) 
 * [Credits](#credits) 
 * [License](#license)
 
-## Installation
-
-1. Clone the repo
-2. Install all Dependencies(NPM, express, mysql2, sequalize, dotenv)
-3. Create your dotenv file with correct username, password, and database
-4. Create your database using mysql, run seeding file, and view your database on mysql workbench app.
-5. Run the server and open Postman to view, create, and alter your database
-6. If you get stuck on any steps, watch the walkthrough video or [contact](mailto:gdcolman95@gmail.com) me. 
-
 ## Usage
 
-* [Code](https://github.com/ginocorp/ginocorp_merch/tree/master/Develop)
-* [Walkthrough Video](https://drive.google.com/file/d/1o9Pb0H-dQ1KsYCMB2hx7r_steZQU4srt/view)
+![](/src/assets/React_Portfolio.gif)
 
+* [Code](https://github.com/ginocorp/React-Portfolio-V1/tree/master/src)
+* React
+* React Dependencies
 * Node.js
-* MySQL Workbench
-* Postman
+* Javascript
 * Variables Created
 * Console logging
 * Files Systems
@@ -35,7 +26,7 @@
 
 ## Credits
 
-Created by myself
+Created by myself and the help of many youtube tutorials
 
 ## License
 
