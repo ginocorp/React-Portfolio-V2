@@ -12,6 +12,8 @@
 
 ## Usage
 
+* [Deployed-Site](https://ginocorp.github.io/React-Portfolio-V2/)
+
 ![](/src/assets/React_Portfolio.gif)
 
 * [Code](https://github.com/ginocorp/React-Portfolio-V1/tree/master/src)
