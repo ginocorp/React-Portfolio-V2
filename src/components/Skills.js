@@ -14,13 +14,13 @@ const Skills = () => {
             <span className="badge badge-success">Skills</span>
           </div>
           <div
-            className="card text-white bg-success"
+            className="card skills-color text-white"
             data-aos="fade-up"
             data-aos-offset="10"
           >
             <div className="row">
               <div className="col-lg-6 col-md-12">
-                <div className="card-body">
+                <div className="card-body card-color">
                   <div className="h4 mt-0 title">Web Development</div>
                   {skills["Web Development"].split(",").map((webdev) => (
                     <button type="button" className="btn btn-warning">
@@ -39,7 +39,7 @@ const Skills = () => {
                 </div>
               </div>
               <div className="col-lg-6 col-md-12">
-                <div className="card-body">
+                <div className="card-body card-color">
                   <div className="h4 mt-0 title">Database</div>
                   {skills["Database"].split(",").map((database) => (
                     <button type="button" className="btn btn-warning">

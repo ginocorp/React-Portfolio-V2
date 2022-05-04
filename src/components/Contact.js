@@ -37,9 +37,9 @@ class Contact extends React.Component {
                               <div className="row mb-3">
                                 <div className="col">
                                   <div className="input-group">
-                                    <span className="input-group-addon">
+                                    {/* <span className="input-group-addon">
                                       <i className="fa fa-user-circle"></i>
-                                    </span>
+                                    </span> */}
                                     <input
                                       className="form-control"
                                       name="subject"
@@ -73,7 +73,7 @@ class Contact extends React.Component {
                         <div className="col-md-6">
                           <div className="card-body">
                             <p className="mb-0">
-                              <strong>Address </strong>
+                              <strong>Address</strong>
                             </p>
                             <p className="pb-2">{this.state.address}</p>
                             <p className="mb-0">

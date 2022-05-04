@@ -5,23 +5,23 @@ export const data = {
   name: "Gino Colman",
   tag: "MERN Stack Web Developer",
   cv_link:
-    "https://drive.google.com/file/d/1r6qmSZtrSjYy5DMg3caFntlqGWDhVVjL/view?usp=sharing",
+    "https://drive.google.com/file/d/1wYQXwRUDTnY7rLMVuF_gJbqJNqg65Zku/view?usp=sharing",
   about:
-    "Hello! I'm Gino -- A MERN stack web developer.",
-  email: "gdcolman95@@gmail.com",
+    "Hello! I'm Gino -- Entry Level MERN Stack Web Developer.",
+  email: "gdcolman95@gmail.com",
   mobile: "5613015519",
-  address: "Currently on the move",
+  address: "North Miami Beach, FL",
   language: "English, Spanish",
-  hobbies: "Playing Soccer, Exercising, Cooking, Traveling, and Playing Games",
+  hobbies: "Playing Soccer, Exercising, Cooking, Traveling, and Gaming",
   projects: [
     {
       p_name: "tripiter",
       from: "Mar 2022",
       to: "April 2022",
       github: "https://github.com/Snackonevil/tripiter",
-      link: "",
+      link: "https://tripiter.herokuapp.com/login",
       details:
-        "React App to log the events of your travels and share with your friends. It creates the sharing of travel experiences in a social network style. Technologies Used: React JS, Nodejs, Expressjs, JavaScript, MongoDB, GraphQL, CSS, Bootstrap."
+        "This React web-based app gives users a personalized way to create a unique profile about their world adventures. They log all their desirable trips by location and add the best highlights about that trip to share with friends and family."
     },
     {
       p_name: "Between The Covers",
@@ -74,7 +74,7 @@ export const data = {
       institute: "Georgia Institute of Technology Bootcamp",
       from: "Oct 2021",
       to: "Apr 2022",
-      grade: "3.9 GPA",
+      grade: "A",
       board: ""
     },
 
@@ -91,15 +91,15 @@ export const data = {
       institute: "Ross University School of Medicine",
       from: "Aug 2018",
       to: "Apr 2020",
-      grade: "DNF",
+      grade: "Did not complete",
       board: ""
     }
   ],
   skills: {
     "Web Development":
-      "Reactjs, Nodejs, Expressjs, JavaScript, HTML,CSS,Bootstrap",
+      "Reactjs, Nodejs, Expressjs, JavaScript, HTML5, CSS3, Bootstrap",
     "Essential Skills": "Bilingual(English/Spanish), MS Office, iWork Apps, Google Docs, Business Environment Knowledge, Leadership, Supervision and Training, Excellent Communication and Interpersonal Skills",
-    "Database": "MySQL, MongoDB",
-    "Others & Certifications": "Git, Linux, Data Structure, AED/CPR, OSHA, HIPPA, Trailer Dock & Release, Hazmat, MS Office"
+    "Database": "MySQL, NoSQL, MongoDB",
+    "Others & Certifications": "Git, Linux, Data Structure"
   }
 };
